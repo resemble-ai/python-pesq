@@ -42,5 +42,5 @@ setup(name='pypesq',
       py_modules=['numpy'],
       zip_safe=False,
       install_requires=['numpy'],
-      python_requires='!=3.0.*, !=3.1.*, !=3.2.*, <4',
+      #python_requires='!=3.0.*, !=3.1.*, !=3.2.*, <4',
       )
